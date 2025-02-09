@@ -1,0 +1,14 @@
+.background-img{
+    background-image: url('../../assets/images/Home_Background-Page.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line{
+    line-height: 27px;
+}
+.background-brown{
+    background: #E58411;
+    padding: 10px;
+    border-radius: 50%;
+}
