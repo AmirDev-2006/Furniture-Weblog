@@ -14,7 +14,7 @@ export default function Product() {
             Best Selling Product
           </h1>
         </div>
-        <div className="flex mb-[117px] h-[492px] w-full items-center px-[121px] gap-x-[60px]">
+        <div className="flex font-sans mb-[117px] h-[492px] w-full items-center px-[121px] gap-x-[60px]">
                 <button className="flex justify-center items-center">
             <img className="rotate-180" src={next} alt="" />
                 </button>
