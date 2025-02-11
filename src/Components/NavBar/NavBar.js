@@ -39,8 +39,8 @@ const subNav = () =>{
               </li>
             </ul>
           </div>
-          <div className="">
-            <button>
+          <div>
+            <button className='hover:mb-3k transition-all'>
             <ShoppingBagIcon className="w-8 h-8"/>
             </button>
           </div>

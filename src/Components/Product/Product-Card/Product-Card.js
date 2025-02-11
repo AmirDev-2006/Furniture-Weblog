@@ -4,11 +4,11 @@ import stars from '../../../assets/images/star/Group 172.png'
 export default function Card(props){
     return(
         <>
-        <div className=" w-[268px] h-[492px] flex flex-col items-center justify-between">
+        <div className=" w-[268px] h-[492px] hover:w-[280px] hover:h-[510px] hover:mb-10 transition-all flex flex-col items-center justify-around">
             <div className=''>
                 <img className='' src={props.picture} alt="" />
             </div>
-            <div className='p-2 bg-white w-full h-{202px} rounded-t-lg flex flex-col justify-between'>
+            <div className='p-2 bg-white hover:bg-slate-400 transition-all  w-full h-{202px} rounded-t-lg flex flex-col justify-between'>
                 <div className='flex flex-col p-2 gap-y-2'>
                 <p>Chair</p>
                 <h3>{props.name}</h3>

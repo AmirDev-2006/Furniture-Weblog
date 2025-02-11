@@ -8,7 +8,7 @@ export default function Home() {
       <div className="border-black [&>*]:text-[18px] h-[1084px]  background-img flex flex-col items-center ">
         {/* Navigation Bar */}
         <NavBar/>
-        <div className="w-[861px] h-[208px] mt-20 text-center text-white">
+        <div className="w-[861px] h-[208px] transition-all mt-20 text-center text-white">
           <span className="font-GilroyBold text-[80px] tracking-tighter">Make your interior more
           minimalistic & modern</span>
         </div>
