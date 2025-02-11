@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Furniture-Weblog/static/css/main.5a653ee4.css",
+    "main.js": "/Furniture-Weblog/static/js/main.5b380b61.js",
+    "static/media/Home_Background-Page.jpg": "/Furniture-Weblog/static/media/Home_Background-Page.489e078a796b3c56e8f7.jpg",
+    "static/media/second explain.png": "/Furniture-Weblog/static/media/second explain.d7293baf83e6a444c180.png",
+    "static/media/first-explain.png": "/Furniture-Weblog/static/media/first-explain.8f092a3e5bd1d76957ab.png",
+    "static/media/First Profile.png": "/Furniture-Weblog/static/media/First Profile.988a649c92849888cd65.png",
+    "static/media/third Profile.png": "/Furniture-Weblog/static/media/third Profile.48d33c3bab04a8cf8f89.png",
+    "static/media/Gilroy-Regular.ttf": "/Furniture-Weblog/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
+    "static/media/Gilroy-Medium.ttf": "/Furniture-Weblog/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
+    "static/media/Gilroy-SemiBold.ttf": "/Furniture-Weblog/static/media/Gilroy-SemiBold.07b9100a72fe7d46d20a.ttf",
+    "static/media/Second Profile.png": "/Furniture-Weblog/static/media/Second Profile.4f1296ab4d4b271034c0.png",
+    "static/media/product2.png": "/Furniture-Weblog/static/media/product2.d170ab090d825a3bb21f.png",
+    "static/media/product1.png": "/Furniture-Weblog/static/media/product1.ea30d431006ef5ed2ca7.png",
+    "static/media/product3.png": "/Furniture-Weblog/static/media/product3.1d36b4bb707518a80ca4.png",
+    "static/media/product4.png": "/Furniture-Weblog/static/media/product4.d12dbe5dab4755538d57.png",
+    "index.html": "/Furniture-Weblog/index.html",
+    "main.5a653ee4.css.map": "/Furniture-Weblog/static/css/main.5a653ee4.css.map",
+    "main.5b380b61.js.map": "/Furniture-Weblog/static/js/main.5b380b61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a653ee4.css",
+    "static/js/main.5b380b61.js"
+  ]
+}
